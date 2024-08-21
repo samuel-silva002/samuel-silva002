@@ -4,5 +4,5 @@
  trabalho com o alura. 
  utilizo o p5 para meus progamas.
 
-## Contato com meu
+## Contato com eu
 silvazoro138@gmail.com
